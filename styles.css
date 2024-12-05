@@ -109,7 +109,7 @@ main section {
     flex-direction: column;
 }
 
-main section h3 {
+main section h2 {
     background-color: var(--yellow);
     color: var(--gray-950);
     padding: 4px 12px;
